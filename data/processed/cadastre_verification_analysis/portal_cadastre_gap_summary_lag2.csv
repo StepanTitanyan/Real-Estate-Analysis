@@ -1,0 +1,2 @@
+selected_lag,n_months,mean_gap_raw_pct,median_gap_raw_pct,sd_gap_raw_pct,mean_gap_smoothed_pct,median_gap_smoothed_pct,sd_gap_smoothed_pct
+2,16,77.25077580667725,84.81764820854356,21.38351124141169,80.86716419321701,83.29516915698737,19.610196712083837
